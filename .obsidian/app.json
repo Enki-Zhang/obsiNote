@@ -1,0 +1,7 @@
+{
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./attachments",
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "vimMode": false
+}
