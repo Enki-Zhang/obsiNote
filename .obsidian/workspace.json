@@ -128,12 +128,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/待完成项目/通过截图识别电影.md",
+                "file": "2025/Java/Java并发.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "通过截图识别电影"
+              "title": "Java并发"
             }
           }
         ],
@@ -318,16 +318,17 @@
   },
   "active": "3b120613d14ba244",
   "lastOpenFiles": [
+    "2025/Java/Java集合源码阅读.md",
+    "2025/Java/Java并发.md",
     "2025/待完成项目/2025计划.md",
-    "2025/待完成项目/影视仓库.md",
     "2025/待完成项目/通过截图识别电影.md",
+    "2025/待完成项目/影视仓库.md",
     "2025/Java/面向接口编程.md",
     "Excalidraw/Drawing 2025-02-06 09.55.57.excalidraw.md",
     "Excalidraw",
     "2025/Vim.md",
     "2025/Java/springboot的请求流程.md",
     "2025/LeetCode.md",
-    "2025/Java/Java并发.md",
     "2025-01-19.md",
     "2025/Java/函数式编程.md",
     "2025/Java/常用工具方法.md",
@@ -351,7 +352,6 @@
     "未命名",
     "textgenerator/templates/default/summarize.md",
     "textgenerator/templates/default/summarizeLarge.md",
-    "textgenerator/templates/default/simplify.md",
     "textgenerator/templates/default",
     "textgenerator/templates",
     "textgenerator",
