@@ -343,8 +343,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "338ff4b5aa199cf9",
+  "active": "a67b04bca31423b0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "obsiNote",
     "2025/Java/微服务组件.md",
     "2025/Java/泛型.md",
@@ -387,7 +388,6 @@
     "计算机基础/assets/Java并发/file-20250107085843983.png",
     "计算机基础/assets/Java并发/file-20250107085838107.png",
     "计算机基础/Java并发.assets/file-20250106144103768.png",
-    "计算机基础/Java并发.assets",
     "计算机基础/assets/Java并发/file-20250106143501612.png"
   ]
 }
