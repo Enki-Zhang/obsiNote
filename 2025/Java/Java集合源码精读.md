@@ -14,6 +14,7 @@
 	1. 实现Set接口的对象有 HashSet、TreeSet
 3. Queue表示队列
 
+	重点是ArrayList以及多种线程安全与不安全的处理方式
 
 
 
