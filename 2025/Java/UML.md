@@ -66,3 +66,4 @@ UML图基本目的是将面向对象设计转为UML图，类图是唯一可以�
 - 避免使用 **多参数构造函数**（尤其是可选参数较多时）。
 
 在使用链式建造者模式时候和普通构造函数的区别：
+![file-20250212111156284.png](https://raw.githubusercontent.com/Enki-Zhang/blog_img/master/20250212111156.png)
