@@ -107,9 +107,21 @@
               "icon": "lucide-file",
               "title": "单例模式"
             }
+          },
+          {
+            "id": "861ac88ec8316a56",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -292,7 +304,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0e77bfe690d3f39",
+  "active": "861ac88ec8316a56",
   "lastOpenFiles": [
     "2025/Java/UML.md",
     "2025/Java/设计模式/单例模式.md",
