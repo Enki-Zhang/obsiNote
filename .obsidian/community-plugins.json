@@ -22,5 +22,6 @@
   "obsidian-image-toolkit",
   "obsidian-textgenerator-plugin",
   "obsidian-vimrc-support",
-  "auto-classifier"
+  "auto-classifier",
+  "copilot"
 ]
