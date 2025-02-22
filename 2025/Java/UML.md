@@ -93,3 +93,26 @@ UML图基本目的是将面向对象设计转为UML图，类图是唯一可以�
 - Spring 的 Bean 默认是单例。
 
 单例模式，让一个类只生成一个实例对象，并提供一个全局访问点
+
+懒汉式 只在使用时候再去加载实例
+
+```java
+public class SingleObject {  
+    private static SingleObject instance;  
+  
+    private SingleObject() {  
+  
+    }  
+    public static SingleObject getInstance() {  
+        if (instance == null) {  
+            instance = new SingleObject();  
+        }  
+        return instance;  
+    }  
+  
+    public void getMessage() {  
+        System.out.println("say hi");  
+    }  
+  
+}
+```
