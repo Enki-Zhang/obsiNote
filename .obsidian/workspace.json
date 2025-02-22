@@ -276,6 +276,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "digitalgarden:Digital Garden Publication Center": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
