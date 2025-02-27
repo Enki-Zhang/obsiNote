@@ -20,3 +20,6 @@
 - `#{name}` 用于占位符，MyBatis 会自动处理参数绑定。
 
 ###  `<choose>`、`<when>` 和 `<otherwise>` 标签
+
+- `<choose>` 是条件选择的总容器，类似 `switch` 语句。
+- `<when>` 标签为条件匹配，`<otherwise>` 提供默认值。
