@@ -100,12 +100,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/Java/MP 自定义sql.md",
+                "file": "2025/Java/Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MP 自定义sql"
+              "title": "Log"
             }
           }
         ],
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "log",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,12 +173,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "855a72317f56d96f",
@@ -307,8 +306,8 @@
   },
   "active": "c0e77bfe690d3f39",
   "lastOpenFiles": [
-    "2025/Java/Java并发.md",
     "2025/Java/MP 自定义sql.md",
+    "2025/Java/Java并发.md",
     "2025/Java/RocketMQ.md",
     "2025/Java/springboot的请求流程.md",
     "2025/Java/Log.md",
