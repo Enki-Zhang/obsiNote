@@ -100,12 +100,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/Java/MP 自定义sql.md",
+                "file": "2025/Java/Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MP 自定义sql"
+              "title": "Log"
             }
           }
         ],
@@ -306,6 +306,7 @@
   },
   "active": "c0e77bfe690d3f39",
   "lastOpenFiles": [
+    "2025/Java/MP 自定义sql.md",
     "2025/Java/RocketMQ.md",
     "2025/Java/springboot的请求流程.md",
     "2025/Java/认证.md",
@@ -313,7 +314,6 @@
     "2025/Java/自定义注解.md",
     "2025/Java/基础.md",
     "2025/Java/Log.md",
-    "2025/Java/MP 自定义sql.md",
     "2025/Java/Java并发.md",
     "2025/Java/代码规范.md",
     "2025/Java/设计模式/工厂模式.md",
