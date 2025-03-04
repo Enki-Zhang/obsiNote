@@ -100,12 +100,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/Java/Log.md",
+                "file": "2025/Java/控制台日志如何读.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Log"
+              "title": "控制台日志如何读"
             }
           }
         ],
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "异常",
+                "query": "日志",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -306,6 +306,8 @@
   },
   "active": "c0e77bfe690d3f39",
   "lastOpenFiles": [
+    "2025/Java/异常.md",
+    "2025/Java/Log.md",
     "2025/Java/MP 自定义sql.md",
     "2025/Java/RocketMQ.md",
     "2025/Java/springboot的请求流程.md",
@@ -313,7 +315,6 @@
     "2025/Java/泛型.md",
     "2025/Java/自定义注解.md",
     "2025/Java/基础.md",
-    "2025/Java/Log.md",
     "2025/Java/Java并发.md",
     "2025/Java/代码规范.md",
     "2025/Java/设计模式/工厂模式.md",
@@ -322,7 +323,6 @@
     "2025/Java/控制台日志如何读.md",
     "2025/仓储",
     "2025/Java/UML.md",
-    "2025/Java/异常.md",
     "other/下班时间.md",
     "other",
     "2025/Java/设计模式",
