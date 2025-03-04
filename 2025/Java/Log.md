@@ -52,3 +52,6 @@ taskkill /PID 1234 /F
 @Transactional 应该尽量放在最小必要的方法上，以避免不必要的性能开销（如锁住过多的资源）。
 
 ## 循环依赖
+
+在存在循环依赖的情况下 有可能是将 @Autowired 替换为 @RequiredArgsConstructor（来自 Lombok）完全有可能导致循环依赖问题，从而导致 Spring 启动失败
+
