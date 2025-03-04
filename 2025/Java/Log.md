@@ -55,3 +55,26 @@ taskkill /PID 1234 /F
 
 在存在循环依赖的情况下 有可能是将 @Autowired 替换为 @RequiredArgsConstructor（来自 Lombok）完全有可能导致循环依赖问题，从而导致 Spring 启动失败
 
+### 原因分析
+
+  
+
+#### 1. @Autowired vs @RequiredArgsConstructor
+
+  
+
+- **@Autowired**：  
+    - 默认用于字段注入或 setter 注入。
+      
+    - Spring 在创建 Bean 后，通过反射注入依赖，支持延迟加载。
+      
+    - 对于循环依赖，Spring 可以通过代理和延迟注入打破循环（默认情况下允许循环依赖）。
+      
+    
+  
+- **@RequiredArgsConstructor**：  
+    - Lombok 注解，会为所有标有 @NonNull 或 final 的字段生成构造器。
+      
+    - 等价于构造器注入（Constructor Injection）。
+      
+    - Spring 在创建 Bean 时，必须先解析所有构造器参数（即依赖的 Bean），这会导致依赖注入发生在 Bean 初始化之前。
