@@ -37,7 +37,12 @@ UML图基本目的是将面向对象设计转为UML图，类图是唯一可以�
 	- 子类可以替换父类且不影响父类的行为
 
 
+设计模式整体分为：
 
+对于Java而言，设计模式中的**重点**：单例、工厂、策略、观察者、代理、适配器、装饰者。
+
+
+---
 ## 创建型
 
 目的是将负责对象的构建过程和其使用进行分离
@@ -79,3 +84,35 @@ UML图基本目的是将面向对象设计转为UML图，类图是唯一可以�
 | --- | --------------------- | ----------------- |
 | 深拷贝 | 递归复制所有对象              | 复杂订单模板克隆（包含嵌套商品信息 |
 | 浅拷贝 | 复制对象及其类型字段，引用类型字段地址共享 |                   |
+
+## 单例模式 
+
+使用场景：
+- Java 中全局资源管理（如配置、连接池）常用。
+  
+- Spring 的 Bean 默认是单例。
+
+单例模式，让一个类只生成一个实例对象，并提供一个全局访问点
+
+懒汉式 只在使用时候再去加载实例
+
+```java
+public class SingleObject {  
+    private static SingleObject instance;  
+  
+    private SingleObject() {  
+  
+    }  
+    public static SingleObject getInstance() {  
+        if (instance == null) {  
+            instance = new SingleObject();  
+        }  
+        return instance;  
+    }  
+  
+    public void getMessage() {  
+        System.out.println("say hi");  
+    }  
+  
+}
+```
