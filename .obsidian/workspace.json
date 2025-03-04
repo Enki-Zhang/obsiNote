@@ -107,23 +107,9 @@
               "icon": "lucide-file",
               "title": "MP 自定义sql"
             }
-          },
-          {
-            "id": "9f6a6155b57ddbbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -207,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2025/Java/MP 自定义sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "conflict-files-obsidian-git 的反向链接列表"
+              "title": "MP 自定义sql 的反向链接列表"
             }
           },
           {
@@ -307,10 +293,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f6a6155b57ddbbb",
+  "active": "c0e77bfe690d3f39",
   "lastOpenFiles": [
-    "2025/Java/MP 自定义sql.md",
     "conflict-files-obsidian-git.md",
+    "2025/Java/MP 自定义sql.md",
     "2025/Java/RocketMQ.md",
     "2025/Java/springboot的请求流程.md",
     "2025/Java/面向接口编程.md",
