@@ -107,21 +107,9 @@
               "icon": "lucide-file",
               "title": "Log"
             }
-          },
-          {
-            "id": "fb5d784f7715763e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -305,7 +293,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb5d784f7715763e",
+  "active": "c0e77bfe690d3f39",
   "lastOpenFiles": [
     "2025/Java/MP 自定义sql.md",
     "conflict-files-obsidian-git.md",

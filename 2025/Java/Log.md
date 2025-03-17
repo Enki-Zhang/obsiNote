@@ -68,3 +68,6 @@ taskkill /PID 1234 /F
     - Lombok 注解，会为所有标有 @NonNull 或 final 的字段生成构造器。
     - 等价于构造器注入（Constructor Injection）。
     - Spring 在创建 Bean 时，必须先解析所有构造器参数（即依赖的 Bean），这会导致依赖注入发生在 Bean 初始化之前。
+
+
+## DDD
