@@ -238,13 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025/Java/UML.md",
+                "file": "2025/Java/Log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "UML 的大纲"
+              "title": "Log 的大纲"
             }
           },
           {
@@ -268,11 +268,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
