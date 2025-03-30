@@ -87,3 +87,7 @@ taskkill /PID 1234 /F
     
 - `flatMap()` 适用于 **需要展开嵌套结构** 的情况，适合处理 **`List<List<T>>`、`Stream<Stream<T>>`** 等情况。
 
+
+
+## 事务的传播机制 
+为什么有的事务异常会被spring吞灭
