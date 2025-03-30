@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mp",
+                "query": "异常",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -277,7 +277,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0e77bfe690d3f39",
+  "active": "f83639a1fddf60ce",
   "lastOpenFiles": [
     "2025/Java/Log.md",
     "2025/Java/如何正确进行错误处理.md",
