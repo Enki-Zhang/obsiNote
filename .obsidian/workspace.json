@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/Java/Log.md",
+                "file": "2025/Java/如何正确进行错误处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Log"
+              "title": "如何正确进行错误处理"
             }
           }
         ],
@@ -279,8 +279,9 @@
   },
   "active": "c0e77bfe690d3f39",
   "lastOpenFiles": [
-    "2025/Java/摄影.md",
     "2025/Java/Log.md",
+    "2025/Java/如何正确进行错误处理.md",
+    "2025/Java/摄影.md",
     "2025/Java/MP 自定义sql.md",
     "2025/Java/自定义注解.md",
     "2025/Java/Java并发.md",
@@ -308,7 +309,6 @@
     "other",
     "2025/Java/设计模式/单例模式.md",
     "2025/Java/设计模式",
-    "2025/Java/基础.md",
     "Excalidraw",
     "obsiNote",
     "未命名1.canvas",
