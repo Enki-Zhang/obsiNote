@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "c5578df6523e559c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025/Java/springboot的请求流程.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "springboot的请求流程"
-            }
-          },
-          {
             "id": "1943d5242c94791f",
             "type": "leaf",
             "state": {
@@ -91,8 +77,7 @@
               "title": "如何正确进行错误处理"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -277,10 +262,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f83639a1fddf60ce",
+  "active": "f4e4f3e51ed06403",
   "lastOpenFiles": [
-    "2025/Java/Log.md",
     "2025/Java/如何正确进行错误处理.md",
+    "2025/Java/Log.md",
     "2025/Java/摄影.md",
     "2025/Java/MP 自定义sql.md",
     "2025/Java/自定义注解.md",
