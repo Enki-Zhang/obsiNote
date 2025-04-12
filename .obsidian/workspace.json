@@ -100,12 +100,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/Java/MP 自定义sql.md",
+                "file": "2025/Java/知识星球 雨雀.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MP 自定义sql"
+              "title": "知识星球 雨雀"
             }
           }
         ],
@@ -295,11 +295,12 @@
   },
   "active": "c0e77bfe690d3f39",
   "lastOpenFiles": [
+    "2025/Java/微服务组件.md",
+    "2025/Java/MP 自定义sql.md",
     "2025/Java/知识星球 雨雀.md",
     "2025/Java/摄影.md",
     "2025/Java/如何正确进行错误处理.md",
     "conflict-files-obsidian-git.md",
-    "2025/Java/MP 自定义sql.md",
     "2025/Java/RocketMQ.md",
     "2025/Java/springboot的请求流程.md",
     "2025/Java/面向接口编程.md",
@@ -323,7 +324,6 @@
     "2025/Java/基础.md",
     "2025/Java/单元测试.md",
     "影视.md",
-    "2025/Java/Java集合源码精读.md",
     "Excalidraw",
     "obsiNote",
     "未命名1.canvas",
