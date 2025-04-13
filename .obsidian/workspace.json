@@ -271,8 +271,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "444b42e8537bcdb6",
+  "active": "f4e4f3e51ed06403",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "2025/Java/代码规范.md",
     "2025/Java/知识星球 雨雀.md",
     "2025/Java/springboot的请求流程.md",
     "2025/Java/如何正确进行错误处理.md",
@@ -291,7 +293,6 @@
     "2025/Java/泛型.md",
     "2025/Java/面向接口编程.md",
     "未命名.canvas",
-    "conflict-files-obsidian-git.md",
     "2025/Java/数据结构和算法.md",
     "2025/Java/认证.md",
     "2025/仓储/基本概念.md",
@@ -299,7 +300,6 @@
     "2025/Java/设计模式/工厂模式.md",
     "2025/Java/控制台日志如何读.md",
     "2025/Java/异常.md",
-    "2025/Java/代码规范.md",
     "other/下班时间.md",
     "other",
     "2025/Java/设计模式",
