@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/Java/代码规范.md",
+                "file": "2025/Java/知识星球 雨雀.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "代码规范"
+              "title": "知识星球 雨雀"
             }
           },
           {
@@ -206,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025/Java/代码规范.md",
+                "file": "2025/Java/知识星球 雨雀.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "代码规范 的大纲"
+              "title": "知识星球 雨雀 的大纲"
             }
           },
           {
@@ -273,15 +273,15 @@
   },
   "active": "f4e4f3e51ed06403",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2025/Java/自定义注解.md",
     "2025/Java/代码规范.md",
+    "conflict-files-obsidian-git.md",
     "2025/Java/知识星球 雨雀.md",
     "2025/Java/springboot的请求流程.md",
     "2025/Java/如何正确进行错误处理.md",
     "2025/Java/Log.md",
     "2025/Java/摄影.md",
     "2025/Java/MP 自定义sql.md",
-    "2025/Java/自定义注解.md",
     "2025/Java/Java并发.md",
     "2025/Java/Java集合源码精读.md",
     "2025/Java/RocketMQ.md",
