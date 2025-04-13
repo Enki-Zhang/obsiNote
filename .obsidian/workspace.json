@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/Java/知识星球 雨雀.md",
+                "file": "2025/Java/代码规范.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识星球 雨雀"
+              "title": "代码规范"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "异常",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025/Java/Log.md",
+                "file": "2025/Java/代码规范.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Log 的大纲"
+              "title": "代码规范 的大纲"
             }
           },
           {
@@ -234,14 +234,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "389a00f66bd4aa85",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,10 +271,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4e4f3e51ed06403",
+  "active": "444b42e8537bcdb6",
   "lastOpenFiles": [
-    "2025/Java/springboot的请求流程.md",
     "2025/Java/知识星球 雨雀.md",
+    "2025/Java/springboot的请求流程.md",
     "2025/Java/如何正确进行错误处理.md",
     "2025/Java/Log.md",
     "2025/Java/摄影.md",
