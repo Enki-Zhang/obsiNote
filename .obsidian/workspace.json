@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/Java/知识星球 雨雀.md",
+                "file": "2025/Java/GWY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识星球 雨雀"
+              "title": "GWY"
             }
           },
           {
@@ -274,8 +274,9 @@
   },
   "active": "71e36824cd45cc1f",
   "lastOpenFiles": [
-    "2025/Java/MP 自定义sql.md",
     "2025/Java/知识星球 雨雀.md",
+    "2025/Java/GWY.md",
+    "2025/Java/MP 自定义sql.md",
     "2025/Java/自定义注解.md",
     "2025/Java/代码规范.md",
     "conflict-files-obsidian-git.md",
@@ -301,7 +302,6 @@
     "2025/Java/设计模式/工厂模式.md",
     "2025/Java/控制台日志如何读.md",
     "2025/Java/异常.md",
-    "other/下班时间.md",
     "other",
     "2025/Java/设计模式",
     "Excalidraw",
