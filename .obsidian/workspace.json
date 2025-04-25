@@ -121,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -305,8 +305,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cae07e940fe5248",
+  "active": "c0e77bfe690d3f39",
   "lastOpenFiles": [
+    "2025/LeetCode.md",
     "2025/Java/微服务组件.md",
     "2025/Java/MP 自定义sql.md",
     "2025/Java/知识星球 雨雀.md",
@@ -335,7 +336,6 @@
     "2025/Java/Java并发.md",
     "2025/Java/基础.md",
     "2025/Java/单元测试.md",
-    "影视.md",
     "Excalidraw",
     "obsiNote",
     "未命名1.canvas",
