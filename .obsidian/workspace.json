@@ -107,9 +107,21 @@
               "icon": "lucide-file",
               "title": "知识星球 雨雀"
             }
+          },
+          {
+            "id": "1cae07e940fe5248",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -173,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -293,7 +305,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f83639a1fddf60ce",
+  "active": "1cae07e940fe5248",
   "lastOpenFiles": [
     "2025/Java/微服务组件.md",
     "2025/Java/MP 自定义sql.md",
