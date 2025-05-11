@@ -98,12 +98,14 @@
             "id": "1cae07e940fe5248",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "2025/Java/知识星球 雨雀.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "知识星球 雨雀"
             }
           }
         ],
