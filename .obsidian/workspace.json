@@ -107,9 +107,21 @@
               "icon": "lucide-file",
               "title": "知识星球 雨雀"
             }
+          },
+          {
+            "id": "419adcb23aa5f8d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -293,7 +305,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cae07e940fe5248",
+  "active": "419adcb23aa5f8d8",
   "lastOpenFiles": [
     "2025/LeetCode.md",
     "2025/Java/泛型.md",
