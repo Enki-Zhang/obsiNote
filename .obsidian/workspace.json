@@ -100,12 +100,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/Java/知识星球 雨雀.md",
+                "file": "2025/Java/Java集合源码精读.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识星球 雨雀"
+              "title": "Java集合源码精读"
             }
           },
           {
@@ -307,11 +307,12 @@
   },
   "active": "1cae07e940fe5248",
   "lastOpenFiles": [
+    "2025/Java/Java并发.md",
+    "2025/Java/GWY.md",
+    "2025/Java/知识星球 雨雀.md",
     "2025/LeetCode.md",
     "2025/Java/泛型.md",
-    "2025/Java/知识星球 雨雀.md",
     "conflict-files-obsidian-git.md",
-    "2025/Java/GWY.md",
     "2025/Java/微服务组件.md",
     "2025/Java/MP 自定义sql.md",
     "2025/Java/摄影.md",
@@ -334,7 +335,6 @@
     "other",
     "2025/Java/设计模式/单例模式.md",
     "2025/Java/设计模式",
-    "2025/Java/Java并发.md",
     "2025/Java/基础.md",
     "Excalidraw",
     "obsiNote",
