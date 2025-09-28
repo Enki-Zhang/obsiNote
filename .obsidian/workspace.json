@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "配置"
             }
+          },
+          {
+            "id": "c71f3993e265ef40",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,6 +211,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "copilot:Open Copilot Chat": false,
       "digitalgarden:Digital Garden Publication Center": false,
       "switcher:打开快速切换": false,
@@ -215,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "444b42e8537bcdb6",
+  "active": "c71f3993e265ef40",
   "lastOpenFiles": [
     "2025/仓储/配置.md",
     "conflict-files-obsidian-git.md",
