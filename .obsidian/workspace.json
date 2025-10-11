@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "配置"
             }
+          },
+          {
+            "id": "8c986b38417aea49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8592f40cafe3f157",
+  "active": "8c986b38417aea49",
   "lastOpenFiles": [
     "2025/仓储/配置.md",
     "conflict-files-obsidian-git.md",
